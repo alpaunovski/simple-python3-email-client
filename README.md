@@ -1,5 +1,10 @@
 # Simple Python Email Client (wxPython)
 
+# Disclaimer
+This is an educational project. No production use. Only for educational purposes.
+This project is not secure. Credentials are stored unencrypted.
+No warranty whatsoever. Use at own risk.
+
 ## Overview
 This project is a fully functional email client written in Python 3 using the wxPython GUI framework. It demonstrates how to build a lightweight email application using standards-compliant email protocols while still supporting multiple accounts, IMAP retrieval, SMTP sending, and a graphical interface for reading and composing messages.
 
