@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Email Accounts file
+accounts.txt
+
 # Distribution / packaging
 .Python
 build/
